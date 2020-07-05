@@ -1,0 +1,33 @@
+@media (min-width:576px) {
+ .container {
+  max-width:1280px
+ }
+ p::after{
+   content: 'min-width:576px'
+ }
+}
+@media (min-width:768px) {
+ .container {
+  max-width:668px
+ }
+ p::after{
+   content: 'min-width:768px'
+ }
+}
+@media (min-width:992px) {
+  .container {
+   max-width:920px
+  }
+  p::after{
+    content: 'min-width:992px'
+  }
+
+}
+@media (min-width:1200px) {
+ .container {
+  max-width:1280px
+ }
+ p::after{
+   content: 'min-width:1200px'
+ }
+}

@@ -1,0 +1,33 @@
+@media (max-width: 767px) {
+  .section-card {
+    margin: 0 .5rem;
+  }
+  .section-cart {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .section {
+    margin-bottom: 1rem;
+  }
+  .section-product {
+    margin: 0 .5rem;
+  }
+  .section-footer h3 {
+    margin-top: 1rem;
+  }
+  .review-block-col {
+    border-right: 0px !important;
+  }
+
+  .border-bottom-sm {
+    border-bottom: 1px solid #ebecf0;
+    padding-bottom: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  .w-sm-100 {
+    width: 100% !important;
+  }
+
+}
